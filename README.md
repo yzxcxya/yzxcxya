@@ -1,6 +1,6 @@
 ## 个人简介 :heart:
 
-- 🐧 一只努力学习技术变强中的全栈小程序
+- 🐧 一只努力学习技术变强中的全栈小程序员啊
 - 🏡 作品：暂无，今年必将会写很多出来！
 - 🐵 CSDN：[一只小程序啊](https://blog.csdn.net/qq_42169450?type=blog)
 - 🔊 博客园：[一只小程序啊](https://www.cnblogs.com/yhhblog/)
