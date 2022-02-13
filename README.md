@@ -2,10 +2,10 @@
 
 - 🐧 一只努力学习技术变强中的全栈小程序员啊
 - 🏡 作品：暂无，今年必将会写很多出来！
-- 🐵 CSDN：[一只小程序啊](https://blog.csdn.net/qq_42169450?type=blog)
-- 🔊 博客园：[一只小程序啊](https://www.cnblogs.com/yhhblog/)
-- 📟 B站 ：[一只小程序啊](https://space.bilibili.com/294846344)
-- 🤔 知乎：[一只小程序啊](https://www.zhihu.com/people/cheng-xu-yuan-31-91)
+- 🐵 CSDN：[一只小程序员啊](https://blog.csdn.net/qq_42169450?type=blog)
+- 🔊 博客园：[一只小程序员啊](https://www.cnblogs.com/yhhblog/)
+- 📟 B站 ：[一只小程序员啊](https://space.bilibili.com/294846344)
+- 🤔 知乎：[一只小程序员啊](https://www.zhihu.com/people/cheng-xu-yuan-31-91)
 - 💬 微信：YHH2530429686
 - 👭 公众号或交流群：待情况开通
 
